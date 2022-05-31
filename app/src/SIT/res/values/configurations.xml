@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apiKey" translatable="false">add your key here</string>
+    <string name="apiUrl" translatable="false">https://hala.com/</string>
+</resources>
